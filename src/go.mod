@@ -3,11 +3,11 @@ module pebble
 go 1.21.0
 
 require (
-	github.com/Chinmay337/golibs/profiling v0.0.0-20230829052146-b948630de748
+	github.com/kuro337/golibs/profiling v0.0.0-20230829052146-b948630de748
 	github.com/cockroachdb/pebble v0.0.0-20230826001808-0b401ee526b8
 )
 
-replace github.com/Chinmay337/golibs => github.com/Chinmay337/golibs v1.0.8
+replace github.com/kuro337/golibs => github.com/kuro337/golibs v1.0.8
 
 require (
 	github.com/DataDog/zstd v1.4.5 // indirect
