@@ -202,7 +202,7 @@ go tool pprof -http=:8080 profile/mem.pprof
 
 
 
-go get github.com/Chinmay337/golibs@b948630
+go get github.com/kuro337/golibs@b948630
 
 */
 
